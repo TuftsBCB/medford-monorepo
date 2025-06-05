@@ -2,6 +2,8 @@
 
 We will initially attempt to use NX minimally. Primarily because it is a polygot monorepo, creates dependency graphs, and supports semantic versioning, among other reasons. :)
 
+https://nx.dev/
+
 ### What's in here?
 - parser [python]
 - language server [python]
@@ -16,3 +18,4 @@ Top-level directory and subdirectories for each shared code per language or impl
 
 UNIT Tests across multiple programs/apps.
 
+Semantic Versioning for builds.
