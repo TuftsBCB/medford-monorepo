@@ -19,3 +19,7 @@ Top-level directory and subdirectories for each shared code per language or impl
 UNIT Tests across multiple programs/apps.
 
 Semantic Versioning for builds.
+
+### Set-Up and Learn NX (for monorepos)
+
+https://nx.dev/getting-started
